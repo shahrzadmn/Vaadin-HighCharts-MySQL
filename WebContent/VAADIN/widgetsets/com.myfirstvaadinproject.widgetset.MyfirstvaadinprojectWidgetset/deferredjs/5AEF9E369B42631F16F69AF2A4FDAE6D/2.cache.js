@@ -1,0 +1,1 @@
+$wnd.com_myfirstvaadinproject_widgetset_MyfirstvaadinprojectWidgetset.runAsyncCallback2('wgb(1595,1,yae);_.tc=function Qrc(){bdc((!Wcc&&(Wcc=new gdc),Wcc),this.a.d)};K1d(Zh)(2);\n//# sourceURL=com.myfirstvaadinproject.widgetset.MyfirstvaadinprojectWidgetset-2.js\n')
